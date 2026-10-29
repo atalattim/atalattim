@@ -1,42 +1,82 @@
-<h1 align="center">Hi 👋, I'm Maruti Ranganatha Atalatti</h1>
-<h3 align="center">B.Tech in Computer Science Student</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=200&section=header&text=Maruti%20Ranganatha%20Atalatti&fontSize=34&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=57&descSize=15" alt="Premium dark profile banner" />
 
-<p align="center">
-[<img src="https://img.shields.io/badge/Website-102216?style=for-the-badge&logo=aboutdotme&logoColor=11d452"/>](https://marutiatalatti.netlify.app)
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/atalattim)
-[<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/www.linkedin.com/in/marutiatalatti)
-[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:atalattimaruti2007@gmail.com)
+  <a href="https://github.com/atalattim">
+    <img src="https://img.shields.io/badge/GitHub-atalattim-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://marutiatalatti.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
+  </a>
+</div>
+
+---
+
+## 👋 About Me
+
+- 🎓 I'm a **B.Tech Computer Science and Engineering student**.
+- 🌱 I'm building my foundations in programming and web development.
+- 🛠️ I learn by creating projects, experimenting, and improving step by step.
+- 🎯 My current goal is to develop job-ready skills for **internships and software engineering roles**.
+- 🤝 I'm open to feedback, collaboration, and learning from the developer community.
+
+## 🧰 Skills & Tools
+
+**Programming foundations**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python&theme=dark" alt="C and Python" />
 </p>
 
-<hr/>
+**Currently exploring — Web development**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=atalattim&color=11d452&style=for-the-badge" alt="Visitor Badge" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, and JavaScript" />
 </p>
 
-## 💻 Tech Stack
+**Development tools**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-102216?style=for-the-badge&logo=java&logoColor=11d452" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and Visual Studio Code" />
 </p>
+
+## 🚀 Projects
+
+### [PlacePrepAI — Placement Preparation Project](https://github.com/atalattim/placeprep)
+
+A placement-preparation web app. The repository README documents a Next.js build with authentication, PostgreSQL/Prisma, Razorpay integration, and a server-side AI API route. Check the repository for the current implementation and setup instructions.
+
+**Repository:** [github.com/atalattim/placeprep](https://github.com/atalattim/placeprep)
+
+### [Personal Portfolio Website](https://marutiatalatti.netlify.app/)
+
+My portfolio website and a place to present my background and development work.
+
+**Live site:** [marutiatalatti.netlify.app](https://marutiatalatti.netlify.app/) · **Code:** [portfolio repository](https://github.com/atalattim/portfolio_website_maruti_atalatti)
+
+<!--
+PROJECT TEMPLATE — copy this section when you publish another project:
+
+### [Project Name](https://github.com/atalattim/REPOSITORY-NAME)
+A clear, one- or two-sentence description of what the project does and what you learned building it.
+
+**Tech:** Add only technologies actually used in the project.
+**Links:** [Repository](https://github.com/atalattim/REPOSITORY-NAME) · [Live demo](YOUR_LIVE_DEMO_URL)
+-->
 
 ## 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=atalattim&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atalattim&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atalattim&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atalattim&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=atalattim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics for atalattim" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atalattim&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most-used languages for atalattim" />
+</div>
 
 ---
-Built with [GPRG](https://gprg.bhalli.dev)
+
+## 🌐 Find Me Online
+
+- **GitHub:** [@atalattim](https://github.com/atalattim)
+- **Portfolio:** [marutiatalatti.netlify.app](https://marutiatalatti.netlify.app/)
+
+<div align="center">
+  <sub>Thanks for visiting my profile. I'm learning, building, and improving one step at a time.</sub>
+</div>
