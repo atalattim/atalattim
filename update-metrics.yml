@@ -1,0 +1,38 @@
+name: Update profile metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 08:55 IST daily (03:25 UTC)
+    - cron: "25 3 * * *"
+  push:
+    branches: ["main"]
+    paths:
+      - "README.md"
+      - ".github/workflows/update-metrics.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate profile metrics SVG
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: github-metrics.svg
+          template: terminal
+          base: header, activity, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugins_errors_fatal: false
