@@ -51,7 +51,7 @@ A placement-preparation web app. The repository README documents a Next.js build
 
 My portfolio website and a place to present my background and development work.
 
-**Live site:** [marutiatalatti.netlify.app](https://marutiatalatti.netlify.app/) · **Code:** [portfolio repository](https://github.com/atalattim/portfolio_website_maruti_atalatti)
+**Live site:** [marutiatalatti.netlify.app](https://marutiatalatti.netlify.app/) · **Code:** [portfolio repository](https://github.com/atalattim/react-portfolio)
 
 <!--
 PROJECT TEMPLATE — copy this section when you publish another project:
